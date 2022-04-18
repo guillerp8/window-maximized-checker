@@ -6,7 +6,7 @@
 using namespace std;
 
 bool AreSameRECT (RECT& lhs, RECT& rhs){
-    return (lhs.bottom == rhs.bottom && lhs.left == lhs.left && lhs.right == rhs.right && lhs.top == rhs.top) ? true : false;
+    return (lhs.bottom == rhs.bottom && lhs.left == rhs.left && lhs.right == rhs.right && lhs.top == rhs.top) ? true : false;
 }
 
 
